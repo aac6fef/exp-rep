@@ -70,10 +70,10 @@ layout: default
 2. ***Pleurotus ostreatus*** - Wikipedia. The Free Encyclopedia <br>https://en.wikipedia.org/wiki/Pleurotus_ostreatus
 3. Krishnamoorthy Deepalakshmi, Sankaran Mirunalini ***Pleurotus ostreatus: an oyster mushroom with nutritional and
 medicinal properties*** <br>https://jbiochemtech.com/storage/models/article/NG23jvirki6MsPU83nHuA6CbEMW8XcyYx1abn0BuLtqBOKsnuWPknyki9rj5/pleurotus-ostreatus-an-oyster-mushroom-with-nutritional-and-medicinal-properties.pdf
-4. Eger, G.; Eden, G.; Wissig, E. ***Pleurotus ostreatus – breeding potential of a new cultivated mushroom..*** Theoretical and Applied Genetics. 1976, 47: 155–163
 
 ---
- 
+
+4. Eger, G.; Eden, G.; Wissig, E. ***Pleurotus ostreatus – breeding potential of a new cultivated mushroom..*** Theoretical and Applied Genetics. 1976, 47: 155–163 
 5. IconX ***Shin Takarajima*** <br>https://www.bilibili.com/video/BV1j4411W7F7
 6. Lauren W. Jackson III & Barry M. Pryor ***Degradation of aflatoxin B1 from naturally contaminated maize using the edible fungus Pleurotus ostreatus*** <br>https://link.springer.com/article/10.1186/s13568-017-0415-0
 7. AZIS ***Hop***<br> https://www.bilibili.com/video/av170001
